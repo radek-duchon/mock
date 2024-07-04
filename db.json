@@ -1,0 +1,7 @@
+[
+  {
+   "name": "Set-Cookie",
+    "destination": "client",
+    "value": "expFlagCtx=v1~na_only^2Q0hCvXcqExrSTv6lKfO09^true|expert_services_matching_replatforming^5HudyJFdsEOZE4iPID0mox^false|po-wrangler^5BmGPdrHDgkM2aX4F031C7:10.00:1^false|collaborate-embedded-brief^disabled^false|recs_rolllabels_filter^29mkxCz7KYboH7LBVJGDIG^true|recs_integration_test^7yOYs0avbfXQdKbaJAtVix^true|recs_stickers_filter^6f3xcvf88qObndcHeMM4NT^true"
+  }
+]
